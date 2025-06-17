@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+
+A simple and user-friendly translation web application built using React and integrated with the MyMemory Translation API. It allows users to translate text between multiple languages instantly, providing an intuitive interface for quick language conversion
+
 ## Available Scripts
 
 In the project directory, you can run:
